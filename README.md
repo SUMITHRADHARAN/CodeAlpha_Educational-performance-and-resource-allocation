@@ -47,7 +47,7 @@ In the Power BI Service web portal, navigate to your workspace and open the publ
 Pin key visuals from your report pages onto a single, main "Dashboard" page for easy monitoring of high-level KPIs.
 Use the Share button in the service to grant specific colleagues access to the dashboard. 
 
-Conclusion:
+# Conclusion:
 The successful completion of Educational Performance and Resource Allocation results in a functional dashboard that allows educational institutions to visualize academic performance metrics, analyze resource usage to identify gaps, and ultimately support data-driven decision-making in management.
 
 
